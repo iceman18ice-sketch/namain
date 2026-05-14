@@ -119,6 +119,31 @@
 | 47 | [47-glossary.md](./47-glossary.md) | المعجم: 200+ اختصار + مصطلح فني/محاسبي/قانوني |
 | 48 | [48-app-routes-map.md](./48-app-routes-map.md) | كل الـ routes في src/app (491 page) |
 
+### 🎬 السيناريوهات وطرق العمل (Practical Knowledge):
+
+| # | الملف | الغرض |
+|---|---|---|
+| 49 | [49-scenarios-real-world.md](./49-scenarios-real-world.md) | **35+ سيناريو حقيقي** يحدث يومياً في الشركات السعودية مع الخطوات الكاملة والـ JE |
+| 50 | [50-how-to-guides.md](./50-how-to-guides.md) | **20+ دليل "كيف أعمل"** خطوة-بخطوة (فاتورة B2B، توظيف، EOS، ZATCA، إلخ) |
+| 51 | [51-role-day-in-life.md](./51-role-day-in-life.md) | يوم في حياة Cashier + Accountant + CFO + HR + Owner + Driver + Waiter |
+| 52 | [52-decision-tables.md](./52-decision-tables.md) | جداول القرارات (متى VAT، Approval، Credit، FIFO، إلخ) |
+| 53 | [53-period-end-procedures.md](./53-period-end-procedures.md) | إقفال Daily/Weekly/Monthly (16 خطوة)/Quarterly/Year-End الكامل |
+| 54 | [54-common-mistakes.md](./54-common-mistakes.md) | **50+ خطأ شائع** + كيفية تجنبها (محاسبية، أمنية، تقنية، UX) |
+
+### 🚨 العمليات والصيانة (Operations & Maintenance):
+
+| # | الملف | الغرض |
+|---|---|---|
+| 55 | [55-disaster-recovery.md](./55-disaster-recovery.md) | DR + Backup/Restore + Failover + Ransomware + HA |
+| 56 | [56-security-incidents.md](./56-security-incidents.md) | Incident Response: Phishing, Compromise, Breach, DDoS, Ransomware |
+| 57 | [57-data-migration.md](./57-data-migration.md) | Migration من Excel/SAP B1/Oracle/Onyx Pro/QuickBooks |
+| 58 | [58-performance-tuning.md](./58-performance-tuning.md) | DB Tuning + Indexing + Caching + Load Testing + Scaling |
+| 59 | [59-api-sdk-integration.md](./59-api-sdk-integration.md) | API Keys + Webhooks + SDKs + Integration Patterns |
+| 60 | [60-templates-formats.md](./60-templates-formats.md) | Email + PDF + Excel + ZATCA XML + SIF Templates |
+| 61 | [61-support-runbooks.md](./61-support-runbooks.md) | 15+ Support Runbook لحل المشاكل الشائعة |
+| 62 | [62-future-roadmap.md](./62-future-roadmap.md) | الخارطة المستقبلية + التقنيات القادمة + الـ Investment |
+| 63 | [63-brain-maintenance.md](./63-brain-maintenance.md) | كيف نحافظ على هذا الـ Brain حياً وحديثاً |
+
 ---
 
 ## 🎯 كيف يستخدم الـ AI هذا الـ Brain؟
